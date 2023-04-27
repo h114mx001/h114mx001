@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @h114mx001
-- 👀 Mostly InfoSec: Cryptography & Pwning stuffs! 🤖
+- 👀 Mostly InfoSec: Cryptography 🔒 & Pwning stuffs! 🤖
 - 🌱 CS Sophomore, VinUni 21-25
 - 💞️ Loving InfoSec? Want to play CTF with me? DMs & Emails all welcome.
 - 📫 21anh.nt@vinuni.edu.vn or fb/h114mx001!
