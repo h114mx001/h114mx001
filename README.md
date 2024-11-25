@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @h114mx001 or [bi](https://cryptohack.org/user/bi/)
 - 👀 Mostly InfoSec: Cryptography 🔒 & Pwning stuffs! 🤖, Rustacean 🦀.
 - 🌱 CS Junior, VinUni 21-25
-- Security Research Apprentice @[SEFCOM](https://sefcom.asu.edu)
+- Security Research Apprentice @ [SEFCOM](https://sefcom.asu.edu)
 - 📫 21anh.nt@vinuni.edu.vn or fb/h114mx001!
 - That's all :D 
 
